@@ -126,4 +126,4 @@ kg = True
 #math
 #weather
 #call alexa
-translate()
+#translate()
